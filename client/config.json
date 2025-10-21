@@ -1,0 +1,9 @@
+{
+  "server_ip": "127.0.0.1",
+  "server_port": 8765,
+  "token": "123456",
+  "frame_rate": 10,
+  "min_frame_rate": 3,
+  "max_frame_rate": 20,
+  "quality": 80
+}
