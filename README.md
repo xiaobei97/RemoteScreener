@@ -1,6 +1,6 @@
 
 
-**English | [中文](#chinese-version)**
+**English | [中文](#%E4%B8%AD%E6%96%87%E7%89%88)**
 
 # 🖥️ RemoteScreener
 
@@ -118,7 +118,7 @@ pyinstaller --onefile server.py
 
 ---
 
-## 🌏 Chinese Version
+## 🌏 中文版
 
 ---
 
